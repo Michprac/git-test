@@ -6,7 +6,3 @@ newlinehere
 
 Just more lines
 some
-
-somesdfsdfs
-to push
--------------------------
